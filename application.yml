@@ -11,3 +11,7 @@ fortune:
 eureka:
   instance:
     leaseRenewalIntervalInSeconds: 10
+
+management:
+  security:
+    enabled: false
